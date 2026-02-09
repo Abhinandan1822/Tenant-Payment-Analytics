@@ -1,0 +1,5 @@
+chargeType,amount,paymentId,date,tenantId,tenantName,tenantCity,propertyId,propertyName,unit,paymentMethod,paymentStatus
+Rent,18000,9001,2026-02-01,T101,Abhi,Delhi,P501,Greystar Heights,A-101,UPI,Success
+Maintenance,2000,9001,2026-02-01,T101,Abhi,Delhi,P501,Greystar Heights,A-101,UPI,Success
+Rent,22000,9002,2026-02-01,T102,Rahul,Mumbai,P502,Greystar Residency,B-202,Card,Success
+Parking,1000,9002,2026-02-01,T102,Rahul,Mumbai,P502,Greystar Residency,B-202,Card,Success
