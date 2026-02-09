@@ -133,7 +133,7 @@ to load the latest generated CSV datasets.
 
 Add your Power BI dashboard screenshot inside an images/ folder and use this:
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](tenant_overview.png)
 
 ---
 
